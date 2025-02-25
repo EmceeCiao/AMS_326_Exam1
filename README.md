@@ -1,8 +1,8 @@
 # 📌 Setup Instructions
 
-There are two ways of running the programs I've submmited for my AMS 326 HW.      
+There are two ways of running the programs I've submmited for my AMS 326 Exam 1.      
     1. Running/Downloading the Jupyter Notebook, the .ipynb file which is found in this repository             
-    2. Running/Downloading all the .py files found here, there are 6, 4 for the 4 method in 1.1 and 2 for problem 1.2           
+    2. Running/Downloading all the .py files found here, there are just 3 for Problem 1 as that is what I tackled on this exam!         
 
 ## 🔧 Requirements For Jupyter Notebook 
 To run this Jupyter Notebook, you need:
